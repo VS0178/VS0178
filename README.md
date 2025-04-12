@@ -1,10 +1,10 @@
-Добрый день!
-Меня зовут Валера, я из города Краснодар.
-Профессия и опыт
-Работаю системным администратором в сети ресторанов. До этого работал в технической поддержке кассовых аппаратов и ПО.
-Изучение языков программирования
-Начал знакомство с языками с Python. Изучал так же Dart. На данный момент был сделан акцент на разработку на языке Swift.
-Основные моменты:
-	•	Место жительства: Краснодар
-	•	Профессия: Системный администратор
-	•	Изученные языки: Python, Dart, Swift
+Hello!
+My name is Valera, and I am from Krasnodar.
+Profession and Experience
+I work as a system administrator in a network of restaurants. Previously, I worked in technical support for cash registers and software.
+Learning Programming Languages
+I started learning programming languages with Python. I also studied Dart. Currently, I have focused on developing with the Swift language.
+Key Points:
+	•	Place of residence: Krasnodar
+	•	Profession: System Administrator
+	•	Programming languages studied: Python, Dart, Swift
